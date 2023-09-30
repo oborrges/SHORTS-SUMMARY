@@ -1,0 +1,13 @@
+#form {
+  margin-top: 6.4rem;
+  display: flex;
+  gap: 1.2rem;
+}
+
+#form input {
+  display: flex;
+  width: min(90%, 45.2rem);
+  height: 4.8rem;
+  padding: 16px 346px 16px 12px;
+  align-items: center;
+}
